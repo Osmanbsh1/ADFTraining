@@ -1,0 +1,9 @@
+{
+	"name": "Osman-ADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0866166c-be20-48f4-9b1d-3e9a3d235a85",
+		"tenantId": "8fb803ac-3aa8-40ca-bcd3-089130911bfc"
+	}
+}
