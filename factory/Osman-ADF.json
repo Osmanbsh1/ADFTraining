@@ -1,5 +1,13 @@
 {
 	"name": "Osman-ADF",
+	"properties": {
+		"globalConfigurations": {
+			"PipelineBillingEnabled": "true",
+			"factoryStagingLSReferenceName": "AzureDataLakeStorage_Source",
+			"factoryStagingLSType": "LinkedServiceReference",
+			"factoryStagingFolderPath": "adfsourcecontainer"
+		}
+	},
 	"location": "eastus",
 	"identity": {
 		"type": "SystemAssigned",
